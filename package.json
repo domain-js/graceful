@@ -1,6 +1,6 @@
 {
   "name": "@domain.js/graceful",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "domain.js graceful 通用模块，实现优雅退出重启",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,5 @@
   "homepage": "https://github.com/domain-js/graceful#readme",
   "devDependencies": {
     "jest": "^24.9.0"
-  },
-  "dependencies": {
-    "@open-node/graceful": "^0.3.0"
   }
 }
